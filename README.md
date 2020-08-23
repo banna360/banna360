@@ -5,7 +5,7 @@
 
 ## I'm a Husband,Developer, and Lerning Dude!
 
-- 🔭 I’m currently working on a iHorizone for Ooredoo Project!
+- 🔭 I’m currently working for iHorizone with Ooredoo Project
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects

@@ -1,15 +1,15 @@
 ### Hi there, I'm Hasnaul Banna - aka [banna360][website] 👋
 
-[![Website](https://img.shields.io/website?label=banna360.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://banna360.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/banna360?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/hasanulbanna)
+[![Website](https://img.shields.io/website?label=banna360.com&style=for-the-badge&url=https%3A%2F%2Fbanna360.com)](https://banna360.com)
+[![Website](https://img.shields.io/website?label=hasanulbanna.com&style=for-the-badge&url=https%3A%2F%2Fhasanulbanna.com)](https://hasanulbanna.com)
 
 ## I'm a Husband,Developer, and Lerning Dude!
 
-- 🔭 I’m currently working for iHorizone with Ooredoo Project
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games like PUBG and COD, I am a night rider of GhostRider PUBG broup
+- 🔭  I’m currently working for iHorizone with Ooredoo Project
+- 🌱  I’m currently learning everything 🤣
+- 👯  I’m looking to collaborate with other content creators
+- 🥅  2020 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love to play games like PUBG and COD, I am a night rider of GhostRider PUBG broup
 
 
 ### Connect with me:

@@ -31,9 +31,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Banna360's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=banna360&show_icons=true&hide_border=true" />
+### Github Summary:
+
+  <img align="left" alt="Banna360's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=banna360&show_icons=true&hide_border=true" 
 
 </details>
 

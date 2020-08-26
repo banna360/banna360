@@ -9,7 +9,7 @@
 - 🌱  I’m currently learning everything 🤣
 - 👯  I’m looking to collaborate with other open source developers
 - 🥅  2020 Goals: Contribute more to Open Source projects and WordPress
-- ⚡  Fun fact: I love to play games like PUBG and COD, I am a night rider of GhostRider PUBG broup
+- ⚡  Fun fact: I love to play games like PUBG and COD, I am a night rider of GhostRider PUBG team
 
 
 ### Connect with me:

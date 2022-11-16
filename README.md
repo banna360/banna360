@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Banna360's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=banna360&show_icons=true&hide_border=true" />
+![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=banna360&show_icons=true&theme=transparent)
 
 </details>
 

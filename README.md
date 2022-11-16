@@ -46,12 +46,12 @@
 ### Github Summary:
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+
+ <summary>:zap: Github Stats</summary>
 
 ![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=banna360&show_icons=true&theme=transparent)
 
-</details>
+
 
 
 [website]: https://hasanulbanna.com

@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=banna360.com&style=for-the-badge&url=https%3A%2F%2Fbanna360.com)](https://banna360.com)
 [![Website](https://img.shields.io/website?label=hasanulbanna.com&style=for-the-badge&color=1DA1F2&url=https%3A%2F%2Fhasanulbanna.com)](https://hasanulbanna.com)
 
-## I'm a Husband, Developer, and Learning Dude!
+## I'm a Husband,Father,Developer and Learning Dude!
 
 - 🔭  I’m currently working for iHorizone with Ooredoo Project
 - 🌱  I’m currently learning everything 🤣

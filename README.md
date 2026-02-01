@@ -46,9 +46,6 @@
 ### Github Summary:
 </details>
 
-:zap: Github Stats
-
-![Banna's GitHub stats](https://github-readme-stats.vercel.app/api?username=banna360&show_icons=true&theme=transparent)
 
 
 

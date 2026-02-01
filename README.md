@@ -8,7 +8,7 @@
 - 🔭  I’m currently working for iHorizons with Ooredoo Project
 - 🌱  I’m currently polishing my coding skills. 
 - 👯  I’m looking to collaborate with other open source developers
-- 🥅  2024 Goals: Contribute more to Open Source projects and WordPress
+- 🥅  2026 Goals: Contribute more to Open Source projects and WordPress
 - ⚡  Fun fact: I love to play games like PUBG and COD, I am a night rider of GhostRider PUBG team
 
 
